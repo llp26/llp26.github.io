@@ -9,3 +9,15 @@ Currently, my concentration is on
 - multi-agent systems with complex state coupling,
 - data-driven/event-triggered control and optimization of network systems,
 - distributed game on multi-agent networks.
+
+UGV swarm
+
+~~~
+{}{img_left}{images/boids.gif}{Boids}{230px}
+~~~
+
+USV swarm
+
+~~~
+{}{img_left}{images/usv.gif}{USV}{230px}
+~~~
